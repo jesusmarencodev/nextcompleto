@@ -1,0 +1,15 @@
+.change-name-form {
+  padding: 20px 15px;
+  //primer h4 que encuentre
+  > h4 {
+    color: $primary;
+    font-size: 22px;
+  }
+  //primer formulario que encuentre
+  > form {
+    text-align: center;
+    .submit {
+      padding: 12px 60px;
+    }
+  }
+}

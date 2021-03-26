@@ -1,0 +1,70 @@
+//###########Colors##########
+@import "./colors.scss";
+
+
+
+
+//#########Layout############
+@import "../layout/BasicLayout/BasicLayout.scss";
+
+
+
+
+
+//##########Pages############
+@import "../pages/account.scss";
+@import "../pages/index.scss";
+@import "../pages/games/platform.scss";
+@import "../pages/wishlist.scss";
+@import "../pages/search.scss";
+@import "../pages/cart.scss";
+@import "../pages/orders.scss";
+
+
+
+
+
+
+//##########Components#######
+//Header
+@import "../components/Header/Header.scss";
+//TopBar
+@import "../components/Header/TopBar/TopBar.scss";
+//Menu
+@import "../components/Header/Menu/Menu.scss";
+//Modal
+@import "../components/Modal/BasicModal/BasicModal.scss";
+//Login Form
+@import "../components/Auth/LoginForm/LoginForm.scss";
+//ChangeNameForm
+@import "../components/Account/ChangeNameForm/ChangeNameForm.scss";
+//Change Email Form
+@import "../components/Account/ChangeEmailForm/ChangeEmailForm.scss";
+//Change Password Form
+@import "../components/Account/ChangePasswordForm/ChangePasswordForm.scss";
+//Address Form
+@import "../components/Account/AdressForm/AddressForm.scss";
+//List Address
+@import "../components/Account/ListAddress/ListAddress.scss";
+//List Games
+@import "../components/ListGames/ListGames.scss";
+//Pagination
+@import "../components/Pagination/Pagination.scss";
+//Header Game
+@import "../components/Game/HeaderGame/HeaderGame.scss";
+//Tabs Game
+@import "../components/Game/TabsGame/TabsGame.scss";
+//Info Game
+@import "../components/Game/InfoGame/InfoGame.scss";
+//Carrousel Game
+@import "../components/Game/CarouselScreeansShots/CarouselScreeansShots.scss";
+//SummaryCart
+@import "../components/Cart/SummaryCart/SummaryCart.scss";
+//AddressShipping
+@import "../components/Cart/AddressShipping/AddressShipping.scss";
+//Payment
+@import "../components/Cart/Payment/Payment.scss";
+//FormPayment
+@import "../components/Cart/Payment/FormPayment/FormPayment.scss";
+//Orders
+@import "../components/OrderBuy/OrderBuy.scss";

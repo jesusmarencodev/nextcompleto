@@ -1,0 +1,7 @@
+name s3 : next-prueba
+
+pilitica : s3BucketNextPrueba
+
+usuario : strapi-next-prueba
+ID de clave de acceso : AKIA2LPRGOC5L4IFW6HG
+Clave de acceso secreta : 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
